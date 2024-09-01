@@ -2,7 +2,7 @@
 
 ## 前提条件
 
-- 已完成[搭建51单片机开发环境](./setup-development-environment-for-51-mcu.md)
+- 已完成[搭建51单片机开发环境](setup-development-environment-for-51-mcu)
 
 ## 什么是定时器?
 
