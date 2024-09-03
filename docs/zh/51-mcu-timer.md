@@ -35,4 +35,7 @@
 ::: code-group
 <<< ../../codes/demo204-51-timer/src/main.c
 <<< ../../codes/demo204-51-timer/src/led.h
+<<< ../../codes/demo204-51-timer/src/led.c
+<<< ../../codes/demo204-51-timer/src/math.h
+<<< ../../codes/demo204-51-timer/src/math.c
 :::
