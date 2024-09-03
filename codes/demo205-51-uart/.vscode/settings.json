@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "8052.h": "c",
+    "8051.h": "c",
+    "reg51.h": "c",
+    "utils.h": "c",
+    "button.h": "c",
+    "led.h": "c",
+    "lcd_1602.h": "c",
+    "stdint.h": "c",
+    "delay.h": "c"
+  }
+}
