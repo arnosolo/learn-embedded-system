@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "8052.h": "c",
+    "8051.h": "c",
+    "reg51.h": "c",
+    "utils.h": "c",
+    "led.h": "c",
+    "mcu_config.h": "c",
+    "uart.h": "c",
+    "stdint.h": "c",
+    "at24c02.h": "c",
+    "i2c.h": "c"
+  }
+}
