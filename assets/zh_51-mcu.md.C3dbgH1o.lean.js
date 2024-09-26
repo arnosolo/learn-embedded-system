@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as r}from"./chunks/framework.CAtmHNXG.js";const f=JSON.parse('{"title":"51单片机","description":"","frontmatter":{},"headers":[],"relativePath":"zh/51-mcu.md","filePath":"zh/51-mcu.md"}'),c={name:"zh/51-mcu.md"},_=r("",2),o=[_];function i(l,n,m,s,h,u){return a(),t("div",null,o)}const p=e(c,[["render",i]]);export{f as __pageData,p as default};
