@@ -7,7 +7,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      { text: 'About', link: 'https://arnosolo.github.io/blog/' },
     ],
     // sidebar: [
     //   {
@@ -19,7 +19,7 @@ export default defineConfig({
     //   }
     // ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/arnosolo/learn-embedded-system' },
+      { icon: 'github', link: 'https://github.com/arnosolo' },
     ],
     logo: '/big-yellow.svg',
   },
